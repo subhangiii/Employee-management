@@ -11,4 +11,6 @@ The link to the project is: https://employee-5d29f.web.app/
 You can login as Admin and will be directed to dashboard.
 There you can manage jobs and employees. By adding, deleting or editing them.
 
+Right now, you can login with any username and password.
+
 Backend will be soon updated.
